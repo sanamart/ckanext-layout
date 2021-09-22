@@ -1,0 +1,14 @@
+# layout-js:
+#   filter: rjsmin
+#   output: ckanext-layout/%(version)s-layout.js
+#   contents:
+#     - js/layout.js
+#   extra:
+#     preload:
+#       - base/main
+
+# layout-css:
+#   filter: cssrewrite
+#   output: ckanext-layout/%(version)s-layout.css
+#   contents:
+#     - css/layout.css
