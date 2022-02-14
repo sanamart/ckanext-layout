@@ -1,0 +1,71 @@
+.margin-group-org {
+    margin-top: 50px;
+}
+
+body {
+    font-family: Noto Sans, Helvetica, Arial, sans-serif;
+}
+
+.btn-primary {
+    background-color: #a50050;
+}
+
+.btn-primary:hover {
+    background-color: #8a0042;
+}
+
+.account-masthead {
+    background-color: #a50050;
+}
+
+.account-masthead .account .notifications a span {
+    background-color: #a50050 !important
+}
+
+.account-masthead .account ul li a:hover {
+    background-color: #8a0042;
+}
+
+
+.masthead {
+    background-color: #a50050;
+}
+.masthead .navigation .nav-pills li a:hover {
+    background-color: #8a0042
+}
+
+.masthead .navigation .nav-pills li.active a {
+    background-color: #8a0042;
+}
+
+/* Main */
+
+.main {
+    min-height: 500px;
+}
+
+.module-heading {
+    background-color:  #75787b;
+}
+
+.hero {
+    background-image: url("/heidelberg-digital.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.homepage .module-search .module-content {
+    background-color: #a50050;
+}
+
+.homepage .module-search .tags {
+    background-color: #75787b;
+}
+
+/* Footer */
+
+.site-footer, body {
+    background-color: #a50050;
+}
